@@ -1,0 +1,17 @@
+DOM
+Document Object Model - is programing interface for HTML and XLM documents
+DOM - is interface for handling an interface
+DOM is used to manipulate the page in various ways:
+
+    Searching for elements
+    Changing element content
+    Changing HTML structure of the page
+    Changing CSS styling of the page
+
+DOM is called Object Model for it presents the page as an object, containing an object representing each element within it
+DOM not dependent of any programming languages.
+Element and its Locator:
+WebElement - is an object representing HTML element on the page
+WebElement locator aka selector - is a query that finds and returns specific elements from the DOM
+
+child elements are located under dozens of layers

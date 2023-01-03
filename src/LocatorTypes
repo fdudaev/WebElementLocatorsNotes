@@ -1,0 +1,17 @@
+
+Locators are the standard way to find elements in the WebPage
+Every Element can have a unique locator
+A locator also can return multiple elements
+Locator can return all elements that will match it's query
+
+1. ID - best type locator as its most of the time unique
+2. Name - used mostly for input related elements input, button and text are
+3. Class name -
+4. CSS Selector - are expressions that user pattern matching to find elements on the Webpage. - [id='gmp-PAYMENTS'] || #gmp-PAYMENTS
+5. XPath - without text or indexing: can uniquely identify element in the WebPage - //a[@id='gmp-PAYMENTS'] || //div[starts-with(@id,'root')] || //a[contains(@id,'PAYMENT')] ||//a[not(contains(@id,'PAYMENT'))]
+6. Link text or partial link text
+7. tag
+8. Xpath with text and/or indexing
+
+
+

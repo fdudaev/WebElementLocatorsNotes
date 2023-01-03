@@ -1,0 +1,15 @@
+
+WebPage is document on www can be dis plaid on the computer
+
+what makes webpages interactive?
+
+3 main components:
+1. HTML -
+    Hypertext markup language:
+        It is a skeleton of the page, providing structure for all the content. Contains all elements and their tag names
+2. CSS -
+    Cascading Style Sheet:
+        CSS is the skin of the page, it controls style, formatting, colors, size, position and layout.
+3. JavaScript-
+    Allows developers to make changes on the WebPage, handle user input and make service calls to back end system.
+
